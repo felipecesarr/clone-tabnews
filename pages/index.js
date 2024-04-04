@@ -1,6 +1,6 @@
 function home() {
 
-    return <h1>Felipe Cesar Flores</h1>
+    return <h1> Fazendo o curso.dev que esta demais 🤩</h1>
 }
 
 export default home;
