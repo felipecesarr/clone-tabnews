@@ -1,6 +1,6 @@
 function home() {
 
-    return <h1> Fazendo o curso.dev que esta demais 🤩</h1>
+    return <h1> Eu amo e teté e a maluma flores 🩷🩷</h1>
 }
 
 export default home;
